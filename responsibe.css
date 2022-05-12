@@ -1,0 +1,12 @@
+@media only screen and (max-width: 600px) {
+    .b{
+        background-image:url(image/hello.jpg);
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        width: auto;
+        height: 100vh;
+        position: relative;
+      }
+  }
